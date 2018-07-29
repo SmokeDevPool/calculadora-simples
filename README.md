@@ -1,2 +1,3 @@
-# calculadora-simples
-Nesse repositório você pode encontrar o codigo de uma calculadora que eu fiz utilizando JavaScript, o projeto é bem simples foi só pra esquentar meu cérebro.
+# Simple Calculator v1
+
+This repository is the my first project javascript, it's a simple project than not have many important things, Sorry my English I'm still learning :smile: .
